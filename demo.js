@@ -1,1 +1,4 @@
-console.log("4"-55);
+function greet() {
+    console.log("Hello, World!");
+}
+greet();  // Output: Hello, World
